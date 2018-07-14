@@ -108,7 +108,7 @@ class ChatViewController: UIViewController {
     @IBAction func logOutPressed(_ sender: AnyObject) {
         do {
             try Auth.auth().signOut()
-            navigationController?.popToRootViewController(animated: <#T##Bool#>)
+            navigationController?.popToRootViewController(animated: true)
         }
         catch {
             print("error, there was a problem signing out")
