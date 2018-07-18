@@ -1,5 +1,7 @@
 # Flash-Chat
-Following along [The App Brewery](https://www.appbrewery.co) 📱 Flash-Chat Project
+Following along [The App Brewery](https://www.appbrewery.co) 📱 Flash-Chat Project.
+
+A chat app using Firebase real-time database.
 
 
 
@@ -18,5 +20,3 @@ end
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Flash%20Chat.gif)
 
 
-
-Copyright © The App Brewery
